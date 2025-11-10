@@ -6,7 +6,6 @@ I’m a **Product Designer** transitioning into **AI & Backend Engineering**.
 - 🧠 Currently learning **Python, backend development, and applied AI engineering**.
 - 🎯 Interests: AI-powered products, automation, internal tools, and beautiful dashboards.
 - 🛠️ Tools I use: Figma, Notion, GitHub, Python (learning), Postman, a lot of AI tools.
-- 🌍 Based in Lagos, Nigeria.
 - ✉️ Contact:  
 - 🌐 Portfolio: (https://tega.framer.ai/)
 
